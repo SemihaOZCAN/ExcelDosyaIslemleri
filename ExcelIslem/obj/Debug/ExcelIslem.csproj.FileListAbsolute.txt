@@ -1,0 +1,10 @@
+C:\Users\Semiha\Desktop\ExcelIslem\ExcelIslem\bin\Debug\ExcelIslem.exe.config
+C:\Users\Semiha\Desktop\ExcelIslem\ExcelIslem\bin\Debug\ExcelIslem.exe
+C:\Users\Semiha\Desktop\ExcelIslem\ExcelIslem\bin\Debug\ExcelIslem.pdb
+C:\Users\Semiha\Desktop\ExcelIslem\ExcelIslem\obj\Debug\ExcelIslem.csproj.AssemblyReference.cache
+C:\Users\Semiha\Desktop\ExcelIslem\ExcelIslem\obj\Debug\ExcelIslem.Form1.resources
+C:\Users\Semiha\Desktop\ExcelIslem\ExcelIslem\obj\Debug\ExcelIslem.Properties.Resources.resources
+C:\Users\Semiha\Desktop\ExcelIslem\ExcelIslem\obj\Debug\ExcelIslem.csproj.GenerateResource.cache
+C:\Users\Semiha\Desktop\ExcelIslem\ExcelIslem\obj\Debug\ExcelIslem.csproj.CoreCompileInputs.cache
+C:\Users\Semiha\Desktop\ExcelIslem\ExcelIslem\obj\Debug\ExcelIslem.exe
+C:\Users\Semiha\Desktop\ExcelIslem\ExcelIslem\obj\Debug\ExcelIslem.pdb

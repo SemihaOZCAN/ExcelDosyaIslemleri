@@ -1,0 +1,7 @@
+Excel işlem
+****************************
+Bu Windows Forms uygulaması, Excel dosyasındaki verileri görüntüleme ve güncelleme işlevselliği sunar. 
+OleDbConnection sınıfı kullanılarak Excel dosyasına bağlantı sağlanır ve OleDbDataAdapter ile veriler DataGridView kontrolüne aktarılır. 
+Kullanıcıdan alınan veriler, OleDbCommand ile SQL INSERT sorgusu kullanılarak Excel dosyasına eklenir. 
+Hata yönetimi, try-catch-finally bloklarıyla sağlanır ve veritabanı işlemleri sırasında oluşabilecek hatalar kullanıcıya uygun mesajlarla bildirilir.
+ Uygulama, veri listeleme ve ekleme işlemlerini güvenilir bir şekilde gerçekleştirir ve kaynak yönetimini etkin bir şekilde yapar.
